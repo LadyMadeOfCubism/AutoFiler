@@ -1,0 +1,11 @@
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\Autofiler.csprojAssemblyReference.cache
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\AutoFiler.Properties.Resources.resources
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\Autofiler.csproj.GenerateResource.cache
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\Autofiler.csproj.CoreCompileInputs.cache
+C:\Users\young\source\repos\Autofiler\Autofiler\bin\Debug\Autofiler.exe.config
+C:\Users\young\source\repos\Autofiler\Autofiler\bin\Debug\Autofiler.exe
+C:\Users\young\source\repos\Autofiler\Autofiler\bin\Debug\Autofiler.pdb
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\AutoFiler.Form1.resources
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\Autofiler.exe
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\Autofiler.pdb
+C:\Users\young\source\repos\Autofiler\Autofiler\obj\Debug\AutoFiler.InvalidDirectory.resources
